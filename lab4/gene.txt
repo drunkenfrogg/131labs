@@ -24,7 +24,7 @@ Drosophila melanogaster chromosome X
 NNNNNNNNNNNNNNNNNNNN
 NT_033779.5
 NT_033779
-Drosophila melanogaster chromosome 2L
+Drosophila melanogaster chromosome 2L 
 NNNNNNNNNNNNNNNNNNNN
 LC058675.1
 LC058675
